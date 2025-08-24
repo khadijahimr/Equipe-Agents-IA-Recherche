@@ -1,0 +1,8 @@
+agno
+openai
+arxiv
+pypdf
+duckduckgo-search
+googlesearch-python
+pycountry
+hackernews
